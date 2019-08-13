@@ -1,3 +1,2 @@
 # Data Science Project
-Project when participating data science training.
-This is just a trial project for using github desktop.
+All project in data science field (R or Python)
